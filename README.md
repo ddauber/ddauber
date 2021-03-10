@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-I am a research at the [University of Warwick](https://warwick.ac.uk) with a passion for coding and data science.
+I am a researcher at the [University of Warwick](https://warwick.ac.uk) with a passion for coding and data science.
 
 - 👨‍🏫 I teach students how to turn data into meaningful recommendations for business, universities and the wider society
 - 🧐 I conduct reaserch on intercultural behaviour in and outside of organisational contexts
