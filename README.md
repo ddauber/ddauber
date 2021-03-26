@@ -6,4 +6,5 @@ I am a researcher at the [University of Warwick](https://warwick.ac.uk) with a p
 - 🧐 I conduct reasearch on intercultural behaviour in and outside of organisational contexts
 - 👨‍💻 I primarily programme in R
 - 📝 I write research papers on social integration in various contexts
-- 📺 I create video tutorials for novice R programmers
+- 📺 I create video tutorials for novice R programmers and other academics
+- 🛠 I develop diagnostic tools for organisations
