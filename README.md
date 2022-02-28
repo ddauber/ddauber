@@ -8,3 +8,4 @@ I am a researcher at the [University of Warwick](https://warwick.ac.uk) with a p
 - 📝 I write research papers on social integration in various contexts
 - 📺 I create video tutorials for novice R programmers and other academics
 - 🛠 I develop diagnostic tools for organisations
+- 🖼️ I am passionate about Generative Art and Data Visualisations
